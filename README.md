@@ -19,7 +19,7 @@
 在目标服务器上使用 root 用户运行：
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/JackHONGhy/xrayr-automated-install-script/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/hankepeng/xrayr-automated-install-script/master/install.sh)
 ```
 
 脚本会自动完成：
